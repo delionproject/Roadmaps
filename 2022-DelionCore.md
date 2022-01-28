@@ -1,6 +1,7 @@
 <h1 align="center">Delion Core</h1>
 
 - Change logo
+- New Website
 - Blockchain swap using newer PIVX Codebase
 - Developer fee implementation
 - Fund buyback or increase liquidity from Deliondex trading fees and farming profits
