@@ -1,7 +1,7 @@
 <h1 align="center">Deliondex Roadmap - 1st Semeter 2022</h1>
 
 # January - March 2022
-- [] Migrate to ALTEChain to eliminate blockchain fees
+- [ ] Migrate to ALTEChain to eliminate blockchain fees
 - List USDT TRC20, also as base pair
 - List IDRT BEP2, also as base pair
 - New Deliondex logo
