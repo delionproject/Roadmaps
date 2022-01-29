@@ -14,7 +14,7 @@
 	* Listing / Delisting Cryptocurrency as Payment Currency Policy
 	* Hosting and Deposit User Agreement
 	* How To Pages -> Tutorial to use Masternodes.biz service
-- [ ] Implementation of <b>MNBIZT</b> and <b>MNBIZD</b>
+- [ ] Implementation of <b>MNBIZT</b>
 	* Rules, terms and conditions of <b>MNBIZT</b> page on Github Wiki
 	* Proof of DLN Masternode Ownership Page
 	* <b>MNBIZT</b> owner page to claim hosting fee discount, pay banner ads, vote for listing new coin and upcoming premium features like Blockchain Explorer, Address tracking etc
